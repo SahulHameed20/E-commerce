@@ -1,1 +1,1 @@
-this file contain text file of newfile3
+NEW FILE 3 CHANGED
